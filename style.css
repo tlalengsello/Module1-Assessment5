@@ -1,0 +1,16 @@
+
+    
+   body{
+	width: 80%;
+	margin: 0 auto;
+	background-color: #D143F4;
+}
+mainContent h1{
+	text-align: center;
+	background-color: #D143F4;
+}
+table{
+    font-family:sans-serif;
+    border-width: 1px;
+    border-style: solid;
+    border-color:aqua 
